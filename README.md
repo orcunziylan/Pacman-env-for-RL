@@ -1,7 +1,7 @@
 ## Simple 10x10 Pacman environment for Reinforcement Learning
 AI Homework 2018
 
-![pacman](https://user-images.githubusercontent.com/55997117/154800664-5c1e4116-34c3-40a7-9bfb-f1c1ed16a430.gif)
+![pacman](https://user-images.githubusercontent.com/55997117/154800815-df61af74-b9d6-4d01-a9d7-fe9ae65a2e42.gif)
 
 8 - pacman
 
