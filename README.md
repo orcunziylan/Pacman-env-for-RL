@@ -1,4 +1,4 @@
-# Simple 10x10 Pacman Environment for Reinforcement Learning
+# 10x10 Pacman Environment for Reinforcement Learning
 
 This repository contains a simple Pacman game environment designed in Python, specifically designed for Reinforcement Learning (RL) purposes. The environment provides a foundational platform for experimenting with RL algorithms and gaining insights into their behavior within the context of the Pacman game. The project was developed as part of an AI homework assignment in 2018.
 
